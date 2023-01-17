@@ -4,7 +4,7 @@ The repository consists of three folders:
 * Task 2.1 - Unsupervised  
   There are two files inside that folder - jupyter notebook with documentation as comments and csv file with all the data used for this assignment.
 * Task 2.2 - Supervised  
-  This folder consists of three files - jupyter notebook, documentation and csv file with all the data used for this assignment.
+  This folder consists of two files - jupyter notebook and documentation.
 * Task 2.3 - NLP  
   This folder consists of three files - jupyter notebook, documentation and csv file with all the data used for this assignment.  
   
